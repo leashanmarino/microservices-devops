@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+
+# Docker
+*.log
+
+# OS
+.DS_Store
